@@ -1,1 +1,1 @@
-# -Sorting-Visualizer-project
+# Bubble Sort-Visualizer-project
